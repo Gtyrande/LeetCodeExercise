@@ -1,0 +1,7 @@
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\14LongestCommonPrefix\bin\Debug\14LongestCommonPrefix.exe.config
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\14LongestCommonPrefix\bin\Debug\14LongestCommonPrefix.exe
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\14LongestCommonPrefix\bin\Debug\14LongestCommonPrefix.pdb
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\14LongestCommonPrefix\obj\Debug\14LongestCommonPrefix.csprojResolveAssemblyReference.cache
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\14LongestCommonPrefix\obj\Debug\14LongestCommonPrefix.csproj.CoreCompileInputs.cache
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\14LongestCommonPrefix\obj\Debug\14LongestCommonPrefix.exe
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\14LongestCommonPrefix\obj\Debug\14LongestCommonPrefix.pdb

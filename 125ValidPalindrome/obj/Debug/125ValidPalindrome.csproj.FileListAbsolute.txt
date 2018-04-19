@@ -1,0 +1,7 @@
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\125ValidPalindrome\obj\Debug\125ValidPalindrome.csprojResolveAssemblyReference.cache
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\125ValidPalindrome\obj\Debug\125ValidPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\125ValidPalindrome\bin\Debug\125ValidPalindrome.exe.config
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\125ValidPalindrome\bin\Debug\125ValidPalindrome.exe
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\125ValidPalindrome\bin\Debug\125ValidPalindrome.pdb
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\125ValidPalindrome\obj\Debug\125ValidPalindrome.exe
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\125ValidPalindrome\obj\Debug\125ValidPalindrome.pdb

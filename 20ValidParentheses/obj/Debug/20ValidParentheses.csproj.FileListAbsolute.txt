@@ -1,0 +1,7 @@
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\20ValidParentheses\bin\Debug\20ValidParentheses.exe.config
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\20ValidParentheses\bin\Debug\20ValidParentheses.exe
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\20ValidParentheses\bin\Debug\20ValidParentheses.pdb
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\20ValidParentheses\obj\Debug\20ValidParentheses.csprojResolveAssemblyReference.cache
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\20ValidParentheses\obj\Debug\20ValidParentheses.csproj.CoreCompileInputs.cache
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\20ValidParentheses\obj\Debug\20ValidParentheses.exe
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\20ValidParentheses\obj\Debug\20ValidParentheses.pdb

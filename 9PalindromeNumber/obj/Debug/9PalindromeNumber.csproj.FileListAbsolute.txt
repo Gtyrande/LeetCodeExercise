@@ -1,0 +1,7 @@
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\9PalindromeNumber\bin\Debug\9PalindromeNumber.exe.config
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\9PalindromeNumber\bin\Debug\9PalindromeNumber.exe
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\9PalindromeNumber\bin\Debug\9PalindromeNumber.pdb
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\9PalindromeNumber\obj\Debug\9PalindromeNumber.csprojResolveAssemblyReference.cache
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\9PalindromeNumber\obj\Debug\9PalindromeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\9PalindromeNumber\obj\Debug\9PalindromeNumber.exe
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\9PalindromeNumber\obj\Debug\9PalindromeNumber.pdb

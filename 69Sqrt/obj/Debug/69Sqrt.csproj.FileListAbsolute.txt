@@ -1,0 +1,7 @@
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\69Sqrt\bin\Debug\69Sqrt.exe.config
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\69Sqrt\bin\Debug\69Sqrt.exe
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\69Sqrt\bin\Debug\69Sqrt.pdb
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\69Sqrt\obj\Debug\69Sqrt.csproj.CoreCompileInputs.cache
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\69Sqrt\obj\Debug\69Sqrt.exe
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\69Sqrt\obj\Debug\69Sqrt.pdb
+C:\Users\Gty\Documents\Visual Studio 2017\Projects\Test\69Sqrt\obj\Debug\69Sqrt.csprojResolveAssemblyReference.cache
